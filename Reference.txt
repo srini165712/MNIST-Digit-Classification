@@ -1,0 +1,4 @@
+Reference: 
+1. http://yann.lecun.com/exdb/mnist/
+2. https://www.tensorflow.org/tutorials
+3. https://en.wikipedia.org/wiki/Convolutional_neural_network
